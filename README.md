@@ -35,12 +35,11 @@
 <td width="50%">
 
 ### 🙋‍♂️ About Me
-- 🔭 Currently working on **[Your Current Project]**
-- 🌱 Learning **[Technologies you're learning]**
+- 🔭 Currently working on **Tasks at Prodigy Infotech**
+- 🌱 Learning **Kotlin , Next.js**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Development, AI, or anything tech**
-- ⚡ Fun fact: **[Your fun fact]**
-- 📫 Reach me: **your.email@example.com**
+- 📫 Reach me: **vedthote33@gmail.com**
 
 </td>
 <td width="50%">
