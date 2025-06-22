@@ -1,7 +1,7 @@
 # 
 <!-- Add your custom banner image here -->
 <div align="center">
-  <img src="Code is like humor. When you have to explain it, it's bad. – Cory House.png" alt="Banner" width="100%" />
+  <img src="Banner.png" alt="Banner" width="100%" />
 </div>
 
 <br/>
