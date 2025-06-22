@@ -148,50 +148,12 @@ const me: Developer = {
 
 <div align="center">
 
-## 🏆 Achievements
-
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ved-Thote&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
-</div>
-
----
-
-<div align="center">
-
-## 🌟 Featured Projects
-
-</div>
-
-<div align="center">
-  <a href="https://github.com/YOUR_USERNAME/PROJECT_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ved-Thote&repo=PROJECT_1&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME/PROJECT_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ved-Thote&repo=PROJECT_2&theme=radical&hide_border=true" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/YOUR_USERNAME/PROJECT_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_3&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME/PROJECT_4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_4&theme=radical&hide_border=true" />
-  </a>
-</div>
-
----
-
-<div align="center">
-
 ## 📈 Contribution Activity
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ved-Thote&theme=react-dark&hide_border=true&area=true" />
 </div>
 
 ---
@@ -219,32 +181,11 @@ const me: Developer = {
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=pulse)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
 [![Website](https://img.shields.io/badge/-Website-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://YOUR_WEBSITE.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.vedthote33@gmail.com)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_DISCORD)
 
 </div>
 
----
-
-<div align="center">
-
-### 🎵 Currently Playing
-
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_ID&count=1&unique=true)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-*📝 Want to see more? Check out my [blog](YOUR_BLOG_URL)*
-
-</div>
 
 ---
 
@@ -256,8 +197,8 @@ const me: Developer = {
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=6366f1&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social)](https://github.com/YOUR_USERNAME)
+![Profile Views](https://komarev.com/ghpvc/?username=Ved-Thote&label=Profile%20views&color=6366f1&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/Ved-Thote?label=Follow&style=social)](https://github.com/Ved-Thote)
 
 **Thanks for visiting! ⭐ Star some repositories if you find them interesting!**
 
