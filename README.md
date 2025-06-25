@@ -1,8 +1,4 @@
 # 
-<!-- Add your custom banner image here -->
-<div align="center">
-  <img src="Banner.png" alt="Banner" width="100%" />
-</div>
 
 <br/>
 
@@ -173,6 +169,11 @@ const me: Developer = {
 
 ## 🤝 Let's Connect!
 
+</div>
+
+<!-- Add your custom banner image here -->
+<div align="center">
+  <img src="twitter header green sky clouds.jpg" alt="Banner" width="100%" />
 </div>
 
 <div align="center">
