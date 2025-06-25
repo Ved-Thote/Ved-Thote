@@ -138,14 +138,9 @@ const me: Developer = {
 
 ---
 
+<!-- Add your custom banner image here -->
 <div align="center">
-
-## 📈 Contribution Activity
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ved-Thote&theme=react-dark&hide_border=true&area=true" />
+  <img src="twitter header green sky clouds.jpg" alt="Banner" width="100%" />
 </div>
 
 ---
@@ -166,11 +161,6 @@ const me: Developer = {
 
 ## 🤝 Let's Connect!
 
-</div>
-
-<!-- Add your custom banner image here -->
-<div align="center">
-  <img src="twitter header green sky clouds.jpg" alt="Banner" width="100%" />
 </div>
 
 <div align="center">
